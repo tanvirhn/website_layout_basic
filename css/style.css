@@ -1,0 +1,27 @@
+.header {
+	min-height:100px;
+	background-color: red;
+}
+.wrapper{
+overflow:hidden;
+
+}
+.service{
+	background-color:green;
+	height:200px;
+	width:70%;
+	float:left; 
+}
+.contact{
+	background-color:blue;
+	height:200px;
+	width:30%; 
+	float:right;
+}
+
+.footer{
+	
+	background-color:black;
+	color:white;
+	text-align:center;
+}
